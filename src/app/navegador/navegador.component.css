@@ -1,0 +1,22 @@
+.nav {
+    position: fixed;
+    background: transparent;
+    padding: 15px;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.nav-link {
+    color: rgb(122, 122, 122);
+    transition: opacity 0.5s;
+    Font-family:  Courier New;
+    Font-size: 20px;
+    Font-weight: bold;
+}
+
+.nav-link:hover {
+    color: rgb(255, 255, 255);
+}
+
