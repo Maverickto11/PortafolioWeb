@@ -1,12 +1,12 @@
 import { Component } from '@angular/core';
-import { HomeComponent } from "../home/home.component";
+import { SkillComponent } from "../skill/skill.component";
 
 @Component({
     selector: 'app-navegador',
     standalone: true,
     templateUrl: './navegador.component.html',
     styleUrl: './navegador.component.css',
-    imports: [HomeComponent]
+    imports: [SkillComponent]
 })
 export class NavegadorComponent {
 
