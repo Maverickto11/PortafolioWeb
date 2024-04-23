@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 body{
     background: rgba(28, 27, 32);

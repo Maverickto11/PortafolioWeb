@@ -13,9 +13,8 @@
     border-bottom-left-radius: 10px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
-    border: 1px solid rgba(28, 27, 32);
     background: #201F23;
-    color: aliceblue;
+    color: white;
     max-width: 70vh;
     max-height: 65vh;
 }

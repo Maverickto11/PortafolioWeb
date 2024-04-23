@@ -1,7 +1,9 @@
-.certificates{
-    position: relative;
-    text-align: center;
-    color: white;
-    margin-top: 50px;
+
+
+.bg-gray-900{
+    background-color: rgba(28, 27, 32);
+}
+
+.mt-8{
     
 }
