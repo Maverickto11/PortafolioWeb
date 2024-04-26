@@ -45,7 +45,7 @@ h2 {
     transition: transform 0.5s;
     border: none;
     max-width: 70vh;
-    max-height: 40vh
+    max-height: 40vh;
     
     /* Ajusta el tamaño máximo de la imagen al contenedor */
 }
