@@ -9,5 +9,5 @@ import { SkillComponent } from "../skill/skill.component";
     imports: [SkillComponent]
 })
 export class NavegadorComponent {
-
+  
 }
